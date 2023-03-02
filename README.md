@@ -31,3 +31,6 @@
 	<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macOS&logoColor=white" />
 
 </div>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={ijnim})](https://solved.ac/{ijnim})
