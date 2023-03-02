@@ -30,7 +30,8 @@
 	<img src="https://img.shields.io/badge/Widnows-0078D6?style=flat&logo=Windows&logoColor=white" />
 	<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macOS&logoColor=white" />
 
-</div>
+<br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ijnim&show_icons=true&theme=midnight-purple)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ijnim)](https://solved.ac/ijnim)
