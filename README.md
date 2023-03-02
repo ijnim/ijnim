@@ -2,10 +2,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=250&section=header&text=Minji's%20Github&fontSize=70&fontColor=FFFFFF)
 
+## ❤️Contact❤️
+<img src="https://img.shields.io/badge/jmjmmm@kookmin.ac.kr-EA4335?style=flat&logo=Gmail&logoColor=white" />
+
+<br>
 	
 ##  ⚙️Tech Stack⚙️
 **Platforms & Languages**
-<div>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white" />
 	<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
@@ -13,7 +16,6 @@
 <br>
 	
 **Tools**
-<div>
 	<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" />
 	<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spyder IDE-FF0000?style=flat&logo=Spyder IDE&logoColor=white" />
@@ -27,7 +29,6 @@
 <br>
 	
 **Operating system**
-<div>
 	<img src="https://img.shields.io/badge/Widnows-0078D6?style=flat&logo=Windows&logoColor=white" />
 	<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macOS&logoColor=white" />
 
