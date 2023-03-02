@@ -2,7 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=7f3ace&height=250&section=header&text=Minji's%20Github&fontSize=70&fontColor=FFFFFF)
 
-Hi, I'm Minji Ju.
+## 👋Hi, there!👋
+Hi, I'm Minji Ju, dreaming of becoming **Data Scientist**
+- Kookmin Univ.
+	- Major : AI, Bigdata & Management
+	- Minor : Data Science
 	
 ## 💜Contact💜
 <img src="https://img.shields.io/badge/jmjmmm@kookmin.ac.kr-EA4335?style=flat&logo=Gmail&logoColor=white" />
