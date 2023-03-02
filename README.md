@@ -1,7 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=250&section=header&text=Minji%20Github!&fontSize=70&fontColor=FFFFFF)
 
-
+<div align="center">
+	
 ###  ⚙️Tech Stack
 - Platforms & Languages
 <div>
@@ -36,3 +37,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ijnim&show_icons=true&theme=midnight-purple)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ijnim)](https://solved.ac/ijnim)
+
+</div>
