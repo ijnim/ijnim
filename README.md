@@ -22,6 +22,6 @@
 	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Widnows-0078D6?style=flat&logo=Windows&logoColor=white" />
-	<img src="https://img.shields.io/badge/Mac-000000?style=flat&logo=Mac&logoColor=white" />
+	<img src="https://img.shields.io/badge/Mac-000000?style=flat&logo=macOS&logoColor=white" />
 
 </div>
