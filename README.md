@@ -37,7 +37,7 @@ Hi, I'm Minji Ju, dreaming of becoming **Data Scientist**
 	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
 <br>
 	
-**Operating system**
+**Platform**
 <br>	
 	<img src="https://img.shields.io/badge/Widnows-0078D6?style=flat&logo=Windows&logoColor=white" />
 	<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macOS&logoColor=white" />
