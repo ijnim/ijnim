@@ -2,8 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=250&section=header&text=Minji%20Github!&fontSize=70&fontColor=FFFFFF)
 
 
-***
-###  📚 Tech Stack 📚
+###  ⚙️Tech Stack
+Platforms&Languages
 ###### These are techs that I've used at least once.
 
 <div>
