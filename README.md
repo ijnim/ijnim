@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=250&section=header&text=Minji%20Github!&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=250&section=header&text=Minji%20Github!&fontSize=70&fontColor=FFDEAD)
 
 <!--
 **ijnim/ijnim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
