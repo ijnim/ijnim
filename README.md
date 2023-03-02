@@ -1,6 +1,6 @@
-<div align="left">
+<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=250&section=header&text=Minji%20Github!&fontSize=70&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=250&section=header&text=Minji's%20Github&fontSize=70&fontColor=FFFFFF)
 
 	
 ##  ⚙️Tech Stack⚙️
