@@ -14,6 +14,7 @@
 	<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white" />
 	<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
+<br>
         <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> <br/>
 	<img src="https://img.shields.io/badge/QGIS-589632?style=flat&logo=Qgis&logoColor=white" />
 	<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=MicrosoftExcel&logoColor=white" />
