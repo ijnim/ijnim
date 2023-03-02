@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=D7BDE2&height=250&section=header&text=Minji's%20Github&fontSize=70&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=wave&color=BE44AD&height=250&section=header&text=Minji's%20Github&fontSize=70&fontColor=FFFFFF)
 
 ## ❤️Contact❤️
 <img src="https://img.shields.io/badge/jmjmmm@kookmin.ac.kr-EA4335?style=flat&logo=Gmail&logoColor=white" />
