@@ -46,7 +46,7 @@ I am going to graduate from Kookmin University in Feburary 2024,
 <br>
 <br>
 
-## 📜 자격증
+## 📜 Certificate  
 | 취득 연도 | 자격증 | 주관 | 유효기간 |
 |-|-|-|-|
 |2021|SQLD|한국데이터산업진흥원|영구|
@@ -54,7 +54,7 @@ I am going to graduate from Kookmin University in Feburary 2024,
 
 <br>
 
-## 📝Career
+## 📝Career  
 | 활동기간 | 기관 | 명칭 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
 | 2020.02 | 안법고등학교 | 이공계열 | 졸업 |
