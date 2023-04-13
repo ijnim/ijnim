@@ -7,6 +7,7 @@ Hi, I'm Minji Ju, dreaming of becoming **Data Scientist**.
 I am going to graduate from Kookmin University in Feburary 2024.
 - Major : AI, Bigdata & Management
 - Minor : Data Science
+	
 Nice to meet you, and have a nice day B-)  
 	
 ## 💜 Contact
