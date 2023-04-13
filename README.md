@@ -14,7 +14,7 @@ I am going to graduate from Kookmin University in Feburary 2024,
 <br>
 	
 ##  ⚙️ Tech Stack
-**Platforms & Languages**
+**Languages**
 <br>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white" />
