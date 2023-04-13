@@ -44,6 +44,7 @@ I am going to graduate from Kookmin University in Feburary 2024,
 	<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macOS&logoColor=white" />
 
 <br>
+
 ![image](https://user-images.githubusercontent.com/86222332/231708204-8c9f226b-92ee-4114-8f45-233ed6a511d9.png)
 	
 ## 📜 Certificate  
