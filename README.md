@@ -47,7 +47,7 @@ I am going to graduate from Kookmin University in Feburary 2024,
 <br>
 
 ## 📜 자격증
-|취득 연도|자격증|주관|유효기간|
+| 취득 연도 | 자격증 | 주관 | 유효기간 |
 |-|-|-|-|
 |2021|SQLD|한국데이터산업진흥원|영구|
 |2022|ADsP|한국데이터산업진흥원|영구|
