@@ -70,7 +70,7 @@ I am going to graduate from Kookmin University in Feburary 2024,
 | 2022.07~2022.08 | LG Aimers 1기 | 교육생 | 수료 |
 | 2022.09~2022.12 | (주)틸다 ML PoC | ML Engr 인턴 | 수료 |
 | 2023.03~ | AI빅데이터융합경영학과 딥러닝 논문 분석 학회 X:AI | 4기 학회원 | 진행중 |
-| 2023.03~2 | (주)틸다 ML PoC  | ML Engr 파트타이머 | 진행중 |
+| 2023.03~ | (주)틸다 ML PoC  | ML Engr 파트타이머 | 진행중 |
 
 
 <br>
