@@ -73,7 +73,7 @@ I am going to graduate from Kookmin University in Feburary 2024,
 | 2023.03~2 | (주)틸다 ML PoC  | ML Engr 파트타이머 | 진행중 |
 
 
-<
+<br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ijnim&show_icons=true&theme=midnight-purple)
