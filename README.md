@@ -4,9 +4,10 @@
 
 ## 👋 Hi, there!
 Hi, I'm Minji Ju, dreaming of becoming **Data Scientist**.  
-I am going to graduate from Kookmin University in Feburary 2024,
+I am going to graduate from Kookmin University in Feburary 2024.
 - Major : AI, Bigdata & Management
 - Minor : Data Science
+Nice to meet you, and have a nice day B-)  
 	
 ## 💜 Contact
 <img src="https://img.shields.io/badge/jmjmmm@kookmin.ac.kr-EA4335?style=flat&logo=Gmail&logoColor=white" />
