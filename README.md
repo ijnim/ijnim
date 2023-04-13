@@ -77,8 +77,7 @@ I am going to graduate from Kookmin University in Feburary 2024,
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ijnim&show_icons=true&theme=midnight-purple)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ijnim)](https://solved.ac/ijnim)
+
 
 <br>
 	
