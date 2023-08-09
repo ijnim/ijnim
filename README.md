@@ -73,7 +73,7 @@ Nice to meet you, and have a nice day B-)
 | 2022.07~2022.08 | LG Aimers 1기 | 교육생 | 수료 |
 | 2022.09~2022.12 | (주)틸다 ML PoC | ML Engr 인턴 | 수료 |
 | 2023.03~ | 딥러닝 논문 분석 학회 X:AI | 2기, 4기 학회원 | 진행중 |
-| 2023.03~ | (주)틸다 ML PoC  | ML Engr 파트타이머 | 진행중 |
+| 2023.03~ | (주)틸다 ML Medical  | ML Engr 파트타이머 | 진행중 |
 
 
 <br>
